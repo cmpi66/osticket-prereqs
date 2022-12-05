@@ -81,6 +81,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Rename:
     From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
     To: C:\inetpub\wwwroot\osTicket\include\**ost-config.php**
 
 ## Assign Permissions: ost-config.php
