@@ -80,9 +80,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Refresh the osTicket site in your browser, observe the changes
 
 Rename:
-    From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
-    To: C:\inetpub\wwwroot\osTicket\include\**ost-config.php**
+  From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
+  To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 ## Assign Permissions: ost-config.php
 19. right click the file, go to properties, security, advanced and Disable inheritance -> Remove All
