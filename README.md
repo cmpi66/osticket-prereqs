@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ## Installing dependencies
 
 3. Connect to your Virtual Machine with Remote Desktop
-4. Install / Enable IIS in Windows by going to the start menu and going to the control panel go to uninstall a program and then click "Turn windows features on or off", check off the following box:
+4. Install / Enable IIS in Windows by going to the start menu, control panel, uninstall a program and then click "Turn windows features on or off", check the following box:
 
 ![IIs image](./iis.png)
 
@@ -87,7 +87,7 @@ Rename:
 
 ## Assign Permissions: ost-config.php
 19. right click the file, go to properties, security, advanced and Disable inheritance -> Remove All
-20. Now click add, select a principal, Everyone and give them access to everything, obviously for the sake of practice we're ginving eceryone full control, in a real setup this would be unwise.
+20. Now click add, select a principal, "Everyone" and give them access to everything, obviously for the sake of practice we're ginving everyone full control, in a real setup this would be unwise.
 
 ![diabling inheritance](./disabling-inheritance.png)
 
